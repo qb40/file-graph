@@ -14,7 +14,7 @@ Enter `Filename` whose graph is to be viewed.
 
 
 <img src="/assets/img/1.png" width="70%"><br/>
-`Point gap` is the distance between 2 points (bytes).
+`Point gap` is the distance between 2 points (bytes).<br/>
 `Time gap` is the delay between drawing of 2 points.
 <br/>
 <br/>
@@ -27,7 +27,7 @@ Enter `Filename` whose graph is to be viewed.
 
 
 <img src="/assets/img/3.png" width="70%"><br/>
-Multiple traces are dran one after another.
+Multiple traces are dran one after another.<br/>
 Press `Enter` to clear old traces.
 <br/>
 <br/>
