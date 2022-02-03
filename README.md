@@ -1,9 +1,8 @@
-**filegraph** is a dos app to view the byte values of a file as a line graph.
+**filegraph** is a DOS app to view the byte values of a file as a line graph.
 Ever thought how a file looks like when seen as a graph (other than a audio file)?
 This is how. Totally random? Or is there a pattern?
 
-
-## demo
+<br>
 
 <img src="https://raw.githubusercontent.com/qb40/filegraph/gh-pages/0/image/0.png" width="70%"><br/>
 Enter `Filename` whose graph is to be viewed.
